@@ -1,0 +1,235 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Inglês - FluencyTV",
+      "cor": "#20B2AA",
+      "link_extra": {
+        "text": "Rhavi Carneiro's Fluency TV",
+        "url": "https://www.youtube.com/channel/UCom75ytjvnPcVwX5yAOvXbA"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Ingês - SmallAdvantages ",
+      "cor": "#00FF7F",
+      "link_extra": {
+        "text": "Inglês com Gavin",
+        "url": "https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Inglês - English Exchange",
+      "cor": "#ADFF2F",
+      "link_extra": {
+        "text": "Inglês com Scott",
+        "url": "https://www.youtube.com/channel/UCKPnYh7dS5LZxQ3X-vOat0g"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Gabriel Poliglota",
+      "cor": "#1E90FF",
+      "link_extra": {
+        "text": "Idiomas com Gabriel Poliglota",
+        "url": "https://www.youtube.com/channel/UC5SNqMU8j9962mHKuYp4Zlw"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Xiao Mandarim - curso de chinês",
+      "cor": "#FF0000",
+      "link_extra": {
+        "text": "Mandarim Com professora Xiao",
+        "url": "https://www.youtube.com/channel/UC5FM9qiDsd1hYl5RXOSG6pQ"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Clube de Chinês",
+      "cor": "#EE0000",
+      "link_extra": {
+        "text": "Chinês com a Professora Sisi",
+        "url": "https://www.youtube.com/channel/UCHGsksWULbnSWLnJkkwLVvA"
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "Learn Korean in Korean",
+      "cor": "#FF00FF",
+      "link_extra": {
+        "text": "Learn Korean in Korean",
+        "url": "https://www.youtube.com/channel/UCQJhoF0nZwaVPSPNPIQhLmg"
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "A Coreana Soyeon 한국여자",
+      "cor": "#7A378B",
+      "link_extra": {
+        "text": "Supermodel A Coreana Soyeon ",
+        "url": "https://www.youtube.com/channel/UCzcgH_1SvYCw1a6SCneODQg"
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Olga Do Brasil",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "A russinha mais divertida",
+        "url": "https://www.youtube.com/channel/UCAdWun5RCSwqE-n1FC9bpcQ"
+      }
+    },
+    {
+      "id": 10,
+      "titulo": "Mairo Vergara",
+      "cor": "#FFFF00",
+      "link_extra": {
+        "text": "Método vergara para aprender idiomas",
+        "url": "https://www.youtube.com/user/MairoVergara"
+      }
+    },
+    {
+      "id": 11,
+      "titulo": "古典音乐 - Traditional china",
+      "cor": "#B22222",
+      "link_extra": {
+        "text": "Músicas tradicionais da china para relaxar",
+        "url": "https://www.youtube.com/user/gatorfan774"
+      }
+    },
+    {
+      "id": 12,
+      "titulo": "Músicas",
+      "cor": "#00FFFF",
+      "link_extra": {
+        "text": "Músicas diversas em outros idiomas",
+        "url": "#"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Aprenda como falar bisbilhotar em inglês",
+      "url": "https://www.youtube.com/watch?v=uR4q2VrVNLM"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Aprenda como falar Gnarly! Aprenda gírias em inglês",
+      "url": "https://www.youtube.com/watch?v=IZTB2OkrCeI"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Qual o significado de could use?",
+      "url": "https://www.youtube.com/watch?v=0BWGx72xSEA&t=13s"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Aprenda 3 expressões importantes com what",
+      "url": "https://www.youtube.com/watch?v=Z60ND_eEZpA"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Como usar used to para falar sobre hábitos passados",
+      "url": "https://www.youtube.com/watch?v=rzDyyOCp87U"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "AS 70 PALAVRAS MAIS PARECIDAS DA LÍNGUA INGLESA",
+      "url": "https://www.youtube.com/watch?v=5P3ol8vkFOY"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "AS 23 FRASES MAIS BELAS DA LÍNGUA INGLESA",
+      "url": "https://www.youtube.com/watch?v=owl3fk3IONo"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "10 FRASES CURTINHAS QUE DARÃO UM UP NO SEU INGLÊS",
+      "url": "https://www.youtube.com/watch?v=aXRNWVdHuE0"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "COMO MONTAR PERGUNTAS EM INGLÊS | DICA #68",
+      "url": "https://www.youtube.com/watch?v=tgrJRsWPt2s"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "A ORDEM DAS PALAVRAS EM INGLÊS | DICA #90",
+      "url": "https://www.youtube.com/watch?v=KS74X5LnLjU"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "PARE de falar YOU'RE WELCOME",
+      "url": "https://www.youtube.com/watch?v=MZfPr50FGNU"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "PARE de falar YOU'RE WELCOME pt 2",
+      "url": "https://www.youtube.com/watch?v=LlOJ4EwFlKU"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Dia de Aparar a Juba | English Vlog (Intermediário)",
+      "url": "https://www.youtube.com/watch?v=wcIyOOSpAw0"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Spill the Beans | CONTANDO OS PODRES com Gavin Roy",
+      "url": "https://www.youtube.com/watch?v=AKXK6Jha_sU"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Pare de Cometer ESSE Erro em Inglês! | Twofer 03",
+      "url": "https://www.youtube.com/watch?v=qCMml7TTrFA"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "TROLLAGEM + REAÇÃO GRINGA (FALANDO VÁRIAS LÍNGUAS) Gabriel Poliglota",
+      "url": "https://www.youtube.com/watch?v=bWTZzBWELpU"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "REAÇÃO GRINGA Com Várias Línguas (GABRIEL POLIGLOTA em BRUXELAS): VOCÊ É CHEIO DE SURPRESAS!",
+      "url": "https://www.youtube.com/watch?v=G1MO2ywgvh8"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "REAÇÃO GRINGA: Sotaque Charmoso em Lisboa (Gabriel Poliglota)",
+      "url": "https://www.youtube.com/watch?v=Y84leE8D4Fg"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "REAÇÕES E PRANKS Falando Várias Línguas (Paris) - Gabriel Poliglota",
+      "url": "https://www.youtube.com/watch?v=NvOtyV02MXM"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Reação Dos Gringos Quando Falo Vários Idiomas (Chineses, Norte-Americanos, Etc.) Gabriel Poliglota",
+      "url": "https://www.youtube.com/watch?v=lA2y_z2_6wA"
+    },
+    {}
+  ]
+}
